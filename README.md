@@ -1,8 +1,8 @@
 # ICP
 A C++ application for consecutive pairwise alignments for a list of clouds. 
 
-![home_complete](home1.jpg)  
-![sift features](office.jpg)  
+![home_complete](samples/home1.jpg)  
+![sift features](samples/office.jpg)  
 
 
 ## Technical Details
