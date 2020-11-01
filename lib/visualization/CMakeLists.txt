@@ -1,7 +1,7 @@
-IF(WIN32)
-    file (GLOB VISUALIZER_HEADER "*.h")
-    file(GLOB VISUALIZER_SRC "*.cpp" "*.c")
-ENDIF()
+
+file (GLOB VISUALIZER_HEADER "*.h")
+file(GLOB VISUALIZER_SRC "*.cpp" "*.c")
+
 #message( ${CAPTURE_HEADER} )
 #message( ${CMAKE_CURRENT_SOURCE_DIR} )
 
